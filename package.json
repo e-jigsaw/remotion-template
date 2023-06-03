@@ -1,0 +1,26 @@
+{
+  "private": true,
+  "name": "remotion-20230603",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "remotion preview",
+    "build": "remotion render MyComp out/video.mp4",
+    "upgrade": "remotion upgrade",
+    "test": "eslint src --ext ts,tsx,js,jsx && tsc"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@remotion/cli": "^3.3.97",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "remotion": "^3.3.97"
+  },
+  "devDependencies": {
+    "@remotion/eslint-config": "^3.3.97",
+    "@types/react": "^18.2.8",
+    "@types/web": "^0.0.99",
+    "eslint": "^8.42.0",
+    "prettier": "^2.8.8",
+    "typescript": "^5.1.3"
+  }
+}
