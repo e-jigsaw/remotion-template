@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "remotion-20230603",
+  "name": "remotion-template",
   "version": "1.0.0",
   "scripts": {
     "start": "remotion preview",
@@ -10,17 +10,17 @@
   },
   "license": "MIT",
   "dependencies": {
-    "@remotion/cli": "^3.3.102",
+    "@remotion/cli": "^4.0.121",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "remotion": "^3.3.102"
+    "remotion": "^4.0.121"
   },
   "devDependencies": {
-    "@remotion/eslint-config": "^3.3.102",
-    "@types/react": "^18.2.14",
-    "@types/web": "^0.0.103",
-    "eslint": "^8.44.0",
-    "prettier": "^2.8.8",
-    "typescript": "^5.1.6"
+    "@remotion/eslint-config": "^4.0.121",
+    "@types/react": "^18.2.61",
+    "@types/web": "^0.0.140",
+    "eslint": "^8.57.0",
+    "prettier": "^3.2.5",
+    "typescript": "^5.3.3"
   }
 }

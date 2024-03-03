@@ -1,4 +1,4 @@
-import {Config} from 'remotion';
+import { Config } from '@remotion/cli/config';
 
-Config.setImageFormat('jpeg');
+Config.setStillImageFormat('jpeg');
 Config.setOverwriteOutput(true);
