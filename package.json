@@ -10,18 +10,18 @@
   },
   "license": "MIT",
   "dependencies": {
-    "@remotion/cli": "^4.0.121",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "remotion": "^4.0.121"
+    "@remotion/cli": "^4.0.201",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "remotion": "^4.0.201"
   },
   "devDependencies": {
-    "@remotion/eslint-config": "^4.0.121",
-    "@types/react": "^18.2.61",
-    "@types/web": "^0.0.140",
-    "eslint": "^8.57.0",
-    "prettier": "^3.2.5",
-    "typescript": "^5.3.3"
+    "@remotion/eslint-config": "^4.0.201",
+    "@types/react": "^18.3.4",
+    "@types/web": "^0.0.155",
+    "eslint": "^9.9.0",
+    "prettier": "^3.3.3",
+    "typescript": "^5.5.4"
   },
   "packageManager": "pnpm@9.7.1"
 }
